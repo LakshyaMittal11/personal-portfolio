@@ -1,0 +1,20 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 9882590..18d4359 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -10,10 +10,11 @@[m
+     <h1>Welcome to My Portfolio</h1>[m
+     <p>This is my personal portfolio website.</p>[m
+ [m
+[32m+[m[41m    [m
+     <section id="projects">[m
+[31m-        <h2>My Projects</h2>[m
+[31m-        <p>My first Personal Portfolio Website.</p>[m
+[31m-    </section>[m
+[32m+[m[32m     <h2>My Projects</h2>[m
+[32m+[m[32m     <p>My first Personal Portfolio Website.</p>[m
+[32m+[m[32m </section>[m
+ [m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
